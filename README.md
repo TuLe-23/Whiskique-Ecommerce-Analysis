@@ -23,7 +23,7 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 - Although the East leads all regions in sales, California leads all states accounting for 11% of sales.
 
 <div align="center">
-<img width="785" height="321" alt="Image" src="https://github.com/user-attachments/assets/3cc2f8ee-4a94-4c45-90b4-c5cdda10c188" />
+<img width="1163" height="360" alt="Image" src="https://github.com/user-attachments/assets/f33b3d8d-ed77-4440-b93c-cd94a6c07564" />
 </div>
 
 <br/>
