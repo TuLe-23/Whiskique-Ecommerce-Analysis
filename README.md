@@ -18,6 +18,8 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 - The East coast region contributes to 35% of sales with Florida and Massachusetts accounting for 13%.
 - Although the East leads all regions in sales, California leads all states accounting for 11% of sales.
 
+<img width="785" height="321" alt="Image" src="https://github.com/user-attachments/assets/3cc2f8ee-4a94-4c45-90b4-c5cdda10c188" />
+
 ### Key Product Performance
 
 - Pet food outperforms all categories with 39% of total sales ($607,895).
