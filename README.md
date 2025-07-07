@@ -28,7 +28,13 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 
 <br/>
 
+<div align="center">
+<img width="781" height="48" alt="Image" src="https://github.com/user-attachments/assets/a13ec4a4-2651-4127-ac99-7dd2b842709c" />
+
+<br/>
+
 *Baseline:* Based on that shipping more than one quantity of an item costs on average, 70% of the cost of a single-unit shipment.
+</div>
 
 ### Key Product Performance
 
