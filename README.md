@@ -43,6 +43,10 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 - Taste of the Wild High Prairie Grain-Free Dry Dog Food leads all products, making up 17% of total sales ($270,364).
 - Taste of the Wild High Prairie Grain-Free Dry Dog Food, despite being a best-selling item, has the most expensive average shipping fee of $20.00 when purchased individually.
 
+<div align="center">
+<img width="1164" height="654" alt="Image" src="https://github.com/user-attachments/assets/178750cc-46dc-4ed8-8e2b-c99bf318baa3" />
+</div>
+
 ### Customer Information
 
 - The East region dominates with 44% of the customer base, indicating a strong market presence led by New York and Florida.
