@@ -8,6 +8,10 @@ Whiskique is an e-commerce company that specializes in distributing pet supplies
 
 Whiskique’s sales analysis of 24.4K records across the year 2021 shows total revenue at around 1.5 million, with California, Texas, and Florida contributing to 24% of total sales. Pet food accounts for nearly 40% of revenue, though shipping cost is a concern as orders only containing single items don't meet the threshold for shipment cost savings. Whiskique can benefit by focusing on shipment consolidation, reduction of product package size, and high quantity shipments to reduce shipping costs. Also, strategically taking advantage of cross-sell and up-sell opportunities will strengthen Whiskique’s sales and drive sustainable growth.
 
+<div align="center">
+<img width="1162" height="631" alt="Image" src="https://github.com/user-attachments/assets/a12c87c9-b44d-4b3a-a7b0-80827927a62d" />
+</div>
+
 ## Insights Deep-Dive
 
 ### Sales Trends
