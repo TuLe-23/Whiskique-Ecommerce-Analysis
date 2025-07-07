@@ -44,7 +44,11 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 - Taste of the Wild High Prairie Grain-Free Dry Dog Food, despite being a best-selling item, has the most expensive average shipping fee of $20.00 when purchased individually.
 
 <div align="center">
+  
 <img width="1164" height="654" alt="Image" src="https://github.com/user-attachments/assets/178750cc-46dc-4ed8-8e2b-c99bf318baa3" />
+
+<img width="1073" height="591" alt="Image" src="https://github.com/user-attachments/assets/16614c97-6d69-4051-a05e-f65dd97e79a5" />
+
 </div>
 
 ### Customer Information
