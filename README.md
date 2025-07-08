@@ -76,6 +76,10 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 - Customers who bought Purina ONE SmartBlend Adult pet food also bought Memory Foam Pet Beds a total of 484 times.
 - Earth Rated Dog Waste Bags exhibited the highest popularity among orders comprising multiple items.
 
+<div align="center">
+<img width="1150" height="644" alt="Image" src="https://github.com/user-attachments/assets/02091525-c66e-4efc-bf8d-e03702f67f64" />
+</div>
+
 ### Shipping Metrics
 
 - The total baseline cost of shipping for the year of 2021 is $385,150.
