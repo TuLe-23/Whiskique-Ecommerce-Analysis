@@ -47,7 +47,7 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
   
 <img width="1164" height="654" alt="Image" src="https://github.com/user-attachments/assets/178750cc-46dc-4ed8-8e2b-c99bf318baa3" />
 
-<img width="1073" height="591" alt="Image" src="https://github.com/user-attachments/assets/16614c97-6d69-4051-a05e-f65dd97e79a5" />
+<img width="1071" height="591" alt="Image" src="https://github.com/user-attachments/assets/1e1f28c9-85d6-4869-b387-1026edd71294" />
 
 </div>
 
