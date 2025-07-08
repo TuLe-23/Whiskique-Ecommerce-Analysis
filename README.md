@@ -1,5 +1,23 @@
 # Whiskique Ecommerce Analysis
 
+Table of Contents
+
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
+  - [Sales Trends](#sales-trends)
+  - [Key Product Performance](#key-product-performance)
+  - [Customer Information](#customer-information)
+  - [Purchase Quantity Analysis](#purchase-quantity-analysis)
+  - [Market Basket Analysis](#market-basket-analysis)
+  - [Shipping Metrics](#shipping-metrics)
+  - [Sales by State and Region](#sales-by-state-and-region)
+- [Recommendations](#recommendations)
+- [Clarifying Questions and Caveats](#clarifying-questions-and-caveats)
+
+<hr>
+</hr>
+
 ## Project Background
 
 Whiskique is an e-commerce company that specializes in distributing pet supplies like grooming accessories, pet food, and supplements to animal lovers across the United States. I’m partnering with the Head of Operations to uncover insights into the company’s 2021 overall performance and deliver possible improvement opportunities across product, marketing, and sales teams.
@@ -91,7 +109,7 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 <img width="1489" height="631" alt="Image" src="https://github.com/user-attachments/assets/2f9f2dcf-8272-4f8c-a2d0-4820ef19e62b" />
 </div>
 
-### Sales by State & Region
+### Sales by State and Region
 
 - California leads all states and the West coast with 11% of total sales ($172,698).
 - Leading the Central region states, Texas generated 6% of total sales ($97,361).
@@ -120,7 +138,7 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
   - Shipping costs per unit decline with larger order quantities due to fixed expenses being spread across more items. This benefits businesses shipping in bulk, improving profitability. These cost dynamics are crucial for pricing, fulfillment, and marketing strategies, especially those promoting bulk orders.
   - Carriers often impose handling fees per package. Shipping with higher quantities into fewer, larger packages decreases the overall number of individual packages, consequently reducing these per-package handling fees.
   
-## Clarifying Questions & Caveats
+## Clarifying Questions and Caveats
 
 ### Questions for Stakeholders Prior to Project Advancement
 
