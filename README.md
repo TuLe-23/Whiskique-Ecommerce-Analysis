@@ -57,6 +57,10 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 - Though the Eastern region has more customers, California has the highest density of all states with 13% of the customer base.
 - North Dakota has the highest average Customer LTV (Lifetime Value) of all sales by customers at $1,277.80, followed by Delaware at $1,022.67, and Nevada at $972.97.
 
+<div align="center">
+<img width="1165" height="497" alt="Image" src="https://github.com/user-attachments/assets/0a6e413a-c2b3-4ac8-b0ec-eeaec1b168e9" />
+</div>
+
 ### Purchase Quantity Analysis
 
 - 7.22% of all sales are made up of orders with two items, followed by orders with three items at 6.68%, and orders with a single item at 5.98%.
