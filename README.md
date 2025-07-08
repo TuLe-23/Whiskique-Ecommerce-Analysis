@@ -87,11 +87,19 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 - Shipping costs are significantly reduced starting when the average shipped quantity is 3 or more.
 - Yearly shipment cost savings could range from $29,545 to $59,095 if the average quantity shipped falls between 3 and 5 units.
 
+<div align="center">
+<img width="1489" height="631" alt="Image" src="https://github.com/user-attachments/assets/2f9f2dcf-8272-4f8c-a2d0-4820ef19e62b" />
+</div>
+
 ### Sales by State & Region
 
 - California leads all states and the West coast with 11% of total sales ($172,698).
 - Leading the Central region states, Texas generated 6% of total sales ($97,361).
 - Sales on the East Coast are primarily driven by Florida, representing 7% of total sales ($107,523).
+
+<div align="center">
+<img width="978" height="152" alt="Image" src="https://github.com/user-attachments/assets/da3fef8a-a753-4cb5-8bc6-a48211f840db" />
+</div>
 
 ## Recommendations
 
