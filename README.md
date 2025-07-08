@@ -65,6 +65,10 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 
 - 7.22% of all sales are made up of orders with two items, followed by orders with three items at 6.68%, and orders with a single item at 5.98%.
 
+<div align="center">
+<img width="881" height="436" alt="Image" src="https://github.com/user-attachments/assets/bf643d6a-108e-41ba-a774-e2a9d5ec669b" />
+</div>
+
 ### Market Basket Analysis
 
 - Customers purchasing Milk Bone Maro Snacks Dog Treats frequently also purchase Earth Rated Dog Waste Bags, with 829 co-purchases observed.
