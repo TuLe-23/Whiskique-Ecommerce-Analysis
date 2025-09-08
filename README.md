@@ -149,3 +149,8 @@ Whiskique’s sales analysis of 24.4K records across the year 2021 shows total r
 ### Caveats
 
 - **Unmatched Customer Records:** Approximately 4.4K (18%) of transactions have <code>Customer ID</code>s not present in the <code>Sales</code> table. This discrepancy suggests missing data or data entry errors, impacting queries and resulting in NULLs or blank cells when joining on <code>Customer ID</code>.
+
+<hr>
+</hr>
+
+- See the raw data and my cleaning, analysis, and pivot tables in the [Excel Workbook](https://github.com/TuLe-23/Whiskique-Ecommerce-Analysis/blob/main/Whiskique%20Data.xlsx).
