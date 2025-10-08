@@ -27,19 +27,19 @@ Whiskique is an e-commerce company that specializes in distributing pet supplies
 Whiskique’s sales analysis of 24.4K records across the year 2021 shows total revenue at around 1.5 million, with California, Texas, and Florida contributing to 24% of total sales. Pet food accounts for nearly 40% of revenue, though shipping cost is a concern as orders only containing single items don't meet the threshold for shipment cost savings. Whiskique can benefit by focusing on shipment consolidation, reduction of product package size, and high quantity shipments to reduce shipping costs. Also, strategically taking advantage of cross-sell and up-sell opportunities will strengthen Whiskique’s sales and drive sustainable growth.
 
 <div align="center">
-<img width="1164" height="654" alt="Image" src="https://github.com/user-attachments/assets/814b3578-c2fa-4951-9c62-96c0fbf85827" />
+<img width="1164" height="654" alt="Image" src="https://github.com/user-attachments/assets/57f74639-e435-4846-a584-a52864ec3351" />
 </div>
 
 <br/>
 
 <div align="center">
-<img width="1164" height="656" alt="Image" src="https://github.com/user-attachments/assets/1f9f2db9-49c2-4d56-87dc-ee0fc60da305" />
+<img width="1164" height="655" alt="Image" src="https://github.com/user-attachments/assets/1552d9ac-fdd4-469a-b02a-48066e1031fa" />
 </div>
 
 <br/>
 
 <div align="center">
-<img width="1163" height="654" alt="Image" src="https://github.com/user-attachments/assets/b1bf6a24-5b65-4520-ad8d-c9efd1e781c3" />
+<img width="1164" height="654" alt="Image" src="https://github.com/user-attachments/assets/9b02b148-6772-474d-b642-9d739e8fed05" />
 </div>
 
 ## Insights Deep-Dive
